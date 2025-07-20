@@ -2,6 +2,10 @@
 
 A simple JavaScript-based todo app that lets users add, delete, and complete tasks. All tasks are saved using `LocalStorage` and managed with JavaScript arrays — no backend required.
 
+## 📍 Live Demo
+
+👉 [Click to view live on GitHub Pages](https://myatmh.github.io/todoWithLocalstorage/)
+
 ## 🚀 Features
 
 - Add new tasks
@@ -27,7 +31,3 @@ A simple JavaScript-based todo app that lets users add, delete, and complete tas
 ## 📂 Project Setup
 
 Just open `index.html` in your browser. No installation needed.
-
-## 📍 Live Demo
-
-👉 [Click to view on GitHub Pages](https://myatmh.github.io/todoWithLocalstorage/)
